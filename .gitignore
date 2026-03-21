@@ -214,3 +214,6 @@ data/*.zip
 # Models
 models/*.pt
 models/*.pkl
+
+# Environnement virtuel
+movie-reco/
